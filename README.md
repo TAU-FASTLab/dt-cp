@@ -1,5 +1,7 @@
 # **DT-CP: Digital twin for control and planning**
 
+For more specific information about this project, check [DT-CP_manual.pdf](./DT-CP_manual.pdf).
+
 # About DT-CP
 
 The Digital Twin for planning and control (DT-CP) allows to replicate a production line. The component is divided into two parts: a simulator, to experiment with alternative models to be implemented in the real line, and a monitoring dashboard for having an overview of the line.
