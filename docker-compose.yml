@@ -2,14 +2,14 @@ version: "3"
 services:
    
     dt-be:
-        image: dt-be:1.2.3
+        image: docker.ramp.eu/shop4cf/dt-be:latest
         container_name: dt-be
         command: npm start
         ports:
           - "8080:8080"
       
     dt-fe:
-        image: dt-fe:1.2.4
+        image: docker.ramp.eu/shop4cf/dt-fe:latest
         container_name: dt-fe
         command: npm start
         depends_on:
@@ -21,7 +21,7 @@ services:
             - "3000"
 
     dt-nh:
-        image: dt-nh:1.0.23
+        image: docker.ramp.eu/shop4cf/dt-nh:latest
         container_name: dt-nh
         command: npm start
         ports:
