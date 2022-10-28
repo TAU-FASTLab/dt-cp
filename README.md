@@ -38,7 +38,7 @@ Load images and start the container
 docker-compose up 
 ```
 
-When deployed locally, DT-CP can now be accessed at: `localhost:3000`
+When deployed locally, DT-CP can now be accessed at: `localhost:2308`
 
 Stop the application
 ``` 
