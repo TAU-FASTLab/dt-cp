@@ -6,9 +6,9 @@ For more specific information about the use of this component, check [DT-CP_manu
 
 The Digital Twin for planning and control (DT-CP) allows to replicate a production line. The component is divided into two parts: a simulator, to experiment with alternative models to be implemented in the real line, and a monitoring dashboard for having an overview of the line.
 
-The time-based simulator takes as input several configuration parameters (e.g., takt time, shift time), process descriptions and resources (e.g., workers with different skill levels). Hence, users can modify and test different production strategies that would be more complicated and time consuming to test in the real line. The monitoring dashboard provides an overview of the production status and suggests shift schedules to improve the well-being of the workers.
+The time-based simulator takes as input several configuration parameters (e.g., takt time, shift time), process descriptions and resources (e.g., workers with different skill levels). Hence, users can modify and test different production strategies that would be more complicated and time consuming to test in the real line. The monitoring dashboard can provide an overview of the production status and suggests shift schedules to improve the well-being of the workers.
 
-The development of this component received funding from the European Union's Horizon 2020 research and innovation program called SHOP4CF (Smart Human Oriented Platform for Connected Factories). For more information about the project, check [Official Website](https://shop4cf.eu/).
+The development of this component received funding from the European Union's Horizon 2020 research and innovation program called **SHOP4CF (Smart Human Oriented Platform for Connected Factories)**. For more information about the project, check [Official Website](https://shop4cf.eu/).
 
 The monitoring table was developed specifically for the use case defined in the SHOP4CF project. See its restrictions in [DT-CP_manual.pdf](./DT-CP_manual.pdf).
 
