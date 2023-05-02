@@ -10,10 +10,10 @@ The time-based simulator takes as input several configuration parameters (e.g., 
 
 The development of this component received funding from the European Union's Horizon 2020 research and innovation program called **SHOP4CF (Smart Human Oriented Platform for Connected Factories)**. For more information about the project, check [Official Website](https://shop4cf.eu/).
 
-The monitoring table was developed specifically for the use case defined in the SHOP4CF project. See its restrictions in [DT-CP_manual.pdf](./DT-CP_manual.pdf).
+The monitoring table is a tailored solution for a SHOP4CF use case, so that some assumptions are made regarding the process to monitor. See its restrictions in [DT-CP_manual.pdf](./DT-CP_manual.pdf).
 
-In case you need an adaptation of it, please contact the web developers of this page.
-The general idea behind the monitoring dashboard can be consulted in the following publication: [Enhancing Digital Twins of Semi-Automatic Production Lines by Digitizing Operator Skills](https://www.mdpi.com/2076-3417/13/3/1637).
+In case you are interested in a monitoring dashboard for you particular process, please contact the web developers of this page.
+In the meanwhile, the general idea behind the monitoring dashboard can be consulted in the following publication: [Enhancing Digital Twins of Semi-Automatic Production Lines by Digitizing Operator Skills](https://www.mdpi.com/2076-3417/13/3/1637).
 
 # Get Started 
 ## Prerequisites
