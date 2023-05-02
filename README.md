@@ -32,7 +32,7 @@ $ git clone https://github.com/TAU-FASTLab/dt-cp.git
 ```
 
 The Docker images of the component can be downloaded from the SHOP4CF repository of [RAMP Docker Registry](https://docker.ramp.eu/). 
-For more information, check [SHOP4CF-Getting Started Guide.pdf](./SHOP4CF - Getting Started Guide.pdf)
+For more information, check [SHOP4CF-Getting Started Guide.pdf](./SHOP4CF - Getting Started Guide.pdf).
 -	`dt-fe`: Interface with which the user interacts (simulator and monitoring dashboard).
 -	`dt-be`: API.
 -	`dt-nh`: Notification handler that manages the communication with FIWARE.
